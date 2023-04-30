@@ -1,0 +1,33 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #07080c;
+  height: 100vh;
+  color: white;
+}
+.img {
+  width: 50%;
+  height: 50%;
+}
+.button-1 {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: 'roboto';
+  padding: 12px;
+  border: 0px;
+  border-radius: 7px;
+  margin-right: 10px;
+}
+
+.button-2 {
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'roboto';
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 7px;
+  margin-left: 10px;
+}
